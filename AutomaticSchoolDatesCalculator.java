@@ -1,7 +1,5 @@
 package javaDateCalculation;
 
-import javaapplication1.*;
-
 public class AutomaticSchoolDatesCalculator {
     
     public static void main(String[] args) {
